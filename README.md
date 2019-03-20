@@ -1,5 +1,4 @@
 # css-id-card
----
 
 **The task at hand is to replicate your college ID card in pure CSS.**
 
